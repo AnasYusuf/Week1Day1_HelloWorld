@@ -7,5 +7,6 @@
 
         Console.WriteLine("Hello, " + name + "!");
         Console.WriteLine("Today is: " + DateTime.Now.ToString("dddd, dd MMMM yyyy"));
+        Console.WriteLine("This is Anas, exploring GIT Branches!");
     }
 }
